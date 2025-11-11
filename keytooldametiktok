@@ -1,6 +1,6 @@
 {
     "keys": {
-        "Spamsms": {"type": "permanent"},
+        "PTA09-XM4721NQ8ZPL": {"type": "permanent"},
         "1daysms": {"type": "trial", "expiry": "2025-11-10T23:59:59", "used": false},
         "think247": {"type": "trial", "expiry": "2025-07-13T23:59:59", "used": false},
         "trieumc333": {"type": "trial", "expiry": "2025-07-22T23:59:59", "used": false},
